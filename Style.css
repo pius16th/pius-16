@@ -8,8 +8,8 @@
 
 /* Body Styling */
 body {
-    background-color: #C72C48; /* Rose Red Color */
-    color: #333; /* Dark text for readability */
+    background-color: #C72C48; /* Rose Red Color as the background */
+    color: #fff; /* White text for good contrast */
     font-size: 16px;
     line-height: 1.6;
     padding: 0 20px;
